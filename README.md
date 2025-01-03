@@ -95,8 +95,6 @@ Foodly's database is designed around the following key schemas:
 4. **Event Schema**: Details food drives and other events.
 5. **Notification Schema**: Manages user alerts and updates.
 
-For detailed schemas, refer to the [Schemas Documentation](./schemas.md).
-
 ---
 
 ## User Interface Design
@@ -138,8 +136,3 @@ For detailed schemas, refer to the [Schemas Documentation](./schemas.md).
 4. **Third-Party Integrations**:
    - Partnerships with local NGOs and government services.
 
----
-
-**Contribute**: Foodly is open-source! Check out our [GitHub repository](https://github.com/your-repo/foodly) to contribute.
-
-**Contact Us**: For questions or feedback, reach out at support@foodlyapp.com.
